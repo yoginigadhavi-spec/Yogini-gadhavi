@@ -1,5 +1,5 @@
 /* ====================================================================
-   C PROGRAMMING: Complete Theory & Examples (Diploma/Basics to Advanced)
+   C PROGRAMMING: Complete Theory 
    ==================================================================== */
 
 #include <stdio.h>
@@ -144,9 +144,3 @@ int main() {
     return 0;
 }
 
-/*
-  --------
-  Every section is labeled, explained, and runs in order.
-  For diploma or self-study, comment/uncomment what you need.
-  --------
-*/
