@@ -5,9 +5,12 @@
 Description:
 - Menu-driven application to manage book records in a small library (add, view, search, delete, update).
 - Uses file handling for persistent data storage.
-- For learning and diploma projects.
-
-Author: Yogini Gadhavi
+- Suitable for diploma students, beginners, and self-study.
+- Open-source: Anyone can use, modify, and learn from this code!
+- Author: Yogini Gadhavi
+- Year: 2026
+- For any course, project, or assignment use.
+==============================================================================
 */
 #include <stdio.h>
 #include <stdlib.h>
