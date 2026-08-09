@@ -1,0 +1,26 @@
+[
+  {
+    "id": "STU001",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "phone": "555-0101",
+    "enrollment_date": "2024-01-15",
+    "created_at": "2024-01-15T10:00:00"
+  },
+  {
+    "id": "STU002",
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "phone": "555-0102",
+    "enrollment_date": "2024-01-20",
+    "created_at": "2024-01-20T11:30:00"
+  },
+  {
+    "id": "STU003",
+    "name": "Carol Davis",
+    "email": "carol.davis@example.com",
+    "phone": "555-0103",
+    "enrollment_date": "2024-02-01",
+    "created_at": "2024-02-01T09:15:00"
+  }
+]
